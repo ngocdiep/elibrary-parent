@@ -1,2 +1,2 @@
 # elibrary-parent
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/hukacode/elibrary-parent)
+[![Build Status](https://travis-ci.org/hukacode/elibrary-parent.svg?branch=master)](https://travis-ci.org/hukacode/elibrary-parent)
