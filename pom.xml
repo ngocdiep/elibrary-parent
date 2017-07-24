@@ -10,7 +10,6 @@
 	<packaging>pom</packaging>
 
 	<modules>
-		<module>elibrary-domain</module>
 		<module>elibrary-service</module>
 		<module>elibrary-persistence</module>
 		<module>elibrary-web-service</module>

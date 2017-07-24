@@ -16,11 +16,6 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.hukacode.elibrary</groupId>
-			<artifactId>elibrary-domain</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
-			<groupId>com.hukacode.elibrary</groupId>
 			<artifactId>elibrary-service</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
