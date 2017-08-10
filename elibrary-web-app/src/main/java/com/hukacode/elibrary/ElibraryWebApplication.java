@@ -6,9 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ElibraryWebApplication {
 
-  int abc;
+  private static int abc = 123;
 
   public static void main(String[] args) {
     SpringApplication.run(ElibraryWebApplication.class, args);
+    System.out.print(abc);
   }
 }
